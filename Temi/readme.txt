@@ -1,9 +1,0 @@
-- 25 feb 2021 (Minimi quadrati) (x)
-- 03 feb 2022 (TCL)
-- 24 feb 2022 (Verosimiglianza)
-- 26 set 2022 (Minimi quadrati) (x)
-- 06 set 2022 (parabole)
-- 01 lug 2022 (FIT distorto)
-- 02 feb 2018 (FIT)
-- 09 mag 2022 (fit andamento temporale)
-- Ripasso teoria
